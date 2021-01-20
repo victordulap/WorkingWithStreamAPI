@@ -1,4 +1,4 @@
-package com.step.person;
+package com.step.model.person;
 
 import java.time.LocalDate;
 import java.time.Month;

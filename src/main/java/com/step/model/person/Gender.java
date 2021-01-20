@@ -1,4 +1,4 @@
-package com.step.person;
+package com.step.model.person;
 
 public enum Gender {
     MALE,
